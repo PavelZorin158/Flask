@@ -58,6 +58,10 @@ div.content {
 }
 
 .flash {padding: 10px;}
+.flash.success {
+    border: 1px solid #21db56;
+    background: #aeffc5;
+}
 .flash.error {
     border: 1px solid #FF4343;
     background: #FF9C9C;
